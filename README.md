@@ -1,6 +1,6 @@
-# 안녕하세요, [당신의 이름]입니다! 👋
+# 안녕하세요, 일비[ilbie]입니다! 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome%20to%20my%20GitHub%20Profile!&fontSize=35&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=제%20GitHub%20프로필에%20오신%20것을%20환영합니다!&fontSize=35&fontColor=FFFFFF)
 
 저의 GitHub 프로필에 오신 것을 환영합니다! 여기서는 제가 작업한 프로젝트와 기여한 내용을 확인하실 수 있습니다. 궁금한 점이 있으면 언제든지 연락주세요.
 
@@ -25,4 +25,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
