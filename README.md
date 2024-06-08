@@ -1,6 +1,6 @@
 # 안녕하세요, [당신의 이름]입니다! 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=%2336BCF7&lines=Welcome+to+my+GitHub+profile!;I'm+an+enthusiastic+developer!;I+love+coding+and+collaboration!)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome%20to%20my%20GitHub%20Profile!&fontSize=35&fontColor=FFFFFF)
 
 저의 GitHub 프로필에 오신 것을 환영합니다! 여기서는 제가 작업한 프로젝트와 기여한 내용을 확인하실 수 있습니다. 궁금한 점이 있으면 언제든지 연락주세요.
 
@@ -12,8 +12,8 @@
 
 ## GitHub 통계
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ilbie&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilbie&layout=compact&theme=default)
 
 ## 사용 기술 및 도구
 
@@ -26,10 +26,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-## 최근 활동
-
-<!--START_SECTION:activity-->
-1. 💪 PR [#1234](https://github.com/repo/pull/1234)을(를) [repo](https://github.com/repo)에 오픈했습니다
-2. 🎉 PR [#1234](https://github.com/repo/pull/1234)을(를) [repo](https://github.com/repo)에 병합했습니다
-3. 💬 [Issue #1234](https://github.com/repo/issues/1234)에 댓글을 남겼습니다
-<!--END_SECTION:activity-->
