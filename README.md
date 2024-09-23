@@ -6,7 +6,7 @@
 
 ## 자기소개
 
-- 현재 진행 중인 프로젝트: [WayMaker](https://github.com/Ilbie/WayMaker.git) - 사용자의 관상과 MBTI를 분석하여, 그에 맞는 노래를 스포티파이를 통해 추천해주는 자바 애플리케이션
+- 현재 진행 중인 프로젝트: 없음
 - 현재 배우고 있는 기술: 딥러닝 및 머신러닝 (PyTorch, TensorFlow)
 - 문의: 이메일 [business@ilbie.com](mailto:business@ilbie.com)
 
