@@ -8,7 +8,6 @@
 
 - 현재 진행 중인 프로젝트: 없음
 - 현재 배우고 있는 기술: 딥러닝 및 머신러닝 (PyTorch, TensorFlow)
-- 문의: 이메일 [business@ilbie.com](mailto:business@ilbie.com)
 
 ## GitHub 통계
 
